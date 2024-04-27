@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProjEscolhaCombustivel</string>
+    <string name="valorEtanol">Valor Litro Etanol</string>
+    <string name="valorGasolina">Valor Litro Gasolina</string>
+    <string name="exibirResultado">O Combustível mais vantajoso é</string>
+    <string name="titulo">Qual Combustível compensa abastecer ?</string>
+    <string name="descobrir">Descobrir</string>
+</resources>
